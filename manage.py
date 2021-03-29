@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+####E:\STUDYING\практикаDjango\virtenv\Scripts\activate.bat###
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
